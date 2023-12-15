@@ -1,7 +1,7 @@
 
 # HaiGemini
 
-HepAI-Gemini是基于Google大模型Gemini的适配版本。
+HepAI-Gemini是基于Google大模型[Gemini](https://deepmind.google/technologies/gemini/#introduction)的适配版本。
 
 ## 特性
 + 谷歌官方提供的Python API无法设置代理，本项目通过REST API调用并封装成新的Python API，使得可以设置代理从国内访问。
